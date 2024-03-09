@@ -1,0 +1,5 @@
+tensorflow
+numpy
+keras
+telebot
+Keras-Preprocessing
