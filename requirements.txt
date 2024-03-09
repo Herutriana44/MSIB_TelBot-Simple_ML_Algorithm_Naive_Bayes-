@@ -3,3 +3,4 @@ numpy
 keras
 telebot
 Keras-Preprocessing
+Sastrawi
